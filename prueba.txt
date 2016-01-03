@@ -1,1 +1,0 @@
-eb http://ppa.launchpad.net/team-xbmc/xbmc-ppa-build-depends/ubuntu wily main 
